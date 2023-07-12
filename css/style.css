@@ -1,0 +1,81 @@
+body {
+	background-color:#000000;
+}
+
+table.grille {
+	background-color:#eeeeee;
+}
+
+table.grille  td {
+	text-align:center;
+	vertical-align:middle;
+	border:1px solid #cccccc;
+	width:25px;
+	height:25px;
+}
+
+img {
+	border:none;
+}
+
+a.entree {
+	font-family:Verdana,Arial;
+	color:#ffffff;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:12px;
+}
+
+.general {
+	text-align:center;
+}
+
+.titre {
+	color:#b3ceff;
+	font-size:23px;
+	font-family:Verdana,Arial;
+}
+
+.choix_mc {
+	font-family:Verdana,Arial;
+	color: orange;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:15px
+}
+
+.case {
+	width:20px;
+	height:20px;
+	background-color:#eeffff;
+	text-align:center;
+	font-weight:bold;
+}
+
+.casebonne{
+	width:20px;
+	height:20px;
+	background-color:#eeeeee;
+	text-align:center;
+	font-weight:bold;
+}
+
+.lettre {
+	color:blue;
+	font-weight:bold;
+}
+
+
+#presentation { 
+	visibility:hidden;
+	border: 1px solid #ffffff;
+	width: 500px;
+	padding: 10px;
+	font-family: Verdana,Arial;
+	color:#b3ceff;
+	font-weight: bold;
+	font-size:12px;
+	text-align:left;
+}
+
+
